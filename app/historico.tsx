@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, FlatList, StyleSheet } from 'react-native';
 
-const BASE_URL = 'http://192.168.100.70:3000';
+const BASE_URL = 'seu IP:3000';
 
 export default function HistoricoScreen() {
   const [historico, setHistorico] = useState<any>([]);
