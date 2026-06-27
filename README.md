@@ -1,4 +1,5 @@
-# 📱 App de Unidades de Saúde - Recife/PE
+#  App de Unidades de Saúde - Recife/PE
+## Aluno: Erick Allan Gomes turma 49
  
 Aplicativo mobile em React Native (Expo) que exibe as unidades de saúde do município do Recife, com busca por nome, bairro ou tipo, uso de GPS e histórico de pesquisas.
  
